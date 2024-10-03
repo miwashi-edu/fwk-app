@@ -1,6 +1,6 @@
 # fwk-app
 
-> When using `npm run build` on fwk-app, the variables
+> When you are using `npm run build` on fwk-app, the variables
 > are read and hardcoded into ./dist
 > 
 > To deliver to different environments:
